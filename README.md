@@ -4,7 +4,7 @@ This is our new research paper, "Each Fake News is Fake in its Own Way: An Attri
 ## Dataset
 ![](image.png)
 ### Get the media:
-Download the media of AMG dataset through this link: [Google Drive](https://drive.google.com/file/d/1cofD-0pzGYgI21aMlUVcocYj7uBMXgNk/view?usp=drive_link)
+Download the media of AMG dataset through this link: [Google Drive]()
 ## Method
 ### Pipeline of MGCA
 ![](pipeline.png)
