@@ -5,6 +5,14 @@
 
 ## Introduction
 This is our new research paper, "Each Fake News is Fake in its Own Way: An Attribution Multi-Granularity Benchmark for Multimodal Fake News Detection", which includes the dataset and method implementation. Unlike existing fake news detection tasks, AMG aims not only to detect the authenticity of multimodal news but also to classify the attribution of the fake news. We construct an attributing multi-granularity multimodal fake news detection dataset AMG and introduce the novel task of multimodal fake news attribution FOR THE FIRST TIME, which not only detects the authenticity of news but also provides error attribution, thereby enhancing the credibility of detection models.
+## Label Attributes:  
+>0: Real News  
+>1: Image Fabrication  
+>2: Entity Inconsistency  
+>3: Event Inconsistency  
+>4: Time & Space Inconsistency  
+>5: Ineffective Visual Information
+
 ## Dataset
 ![](image.png)
 ### Get the media:
